@@ -1,0 +1,30 @@
+# Betriebssystem / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Persönliche Kursdaten, die die Skills beim Lernen anlegen
+kurs.md
+lernstand.md
+Visualisierungen/
+
+# Kursmaterial (urheberrechtlich geschützt, gehört nicht ins Repo)
+*.pdf
+
+# Build-Reste (LaTeX, Node, Python)
+*.aux
+*.log
+*.out
+*.synctex.gz
+node_modules/
+__pycache__/
+.venv/
+
+# Pakete zum Verteilen
+*.zip
+*.skill
+
+# Secrets
+.env
