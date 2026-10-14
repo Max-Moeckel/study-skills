@@ -1,0 +1,14 @@
+{
+  "name": "study-skills",
+  "description": "Subject-neutral study skills for university exams: an exam tutor and study visualizations.",
+  "owner": {
+    "name": "study-skills contributors"
+  },
+  "plugins": [
+    {
+      "name": "study-skills",
+      "source": "./",
+      "description": "Exam tutor with course setup, study plan and progress log, plus study visualizations (TikZ, matplotlib, Graphviz, interactive pages)."
+    }
+  ]
+}

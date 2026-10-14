@@ -1,19 +1,19 @@
-# Betriebssystem / Editor
+# OS / editor
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 *.swp
 
-# Persönliche Kursdaten, die die Skills beim Lernen anlegen
-kurs.md
-lernstand.md
-Visualisierungen/
+# Personal course data created by the skills while studying
+course.md
+progress.md
+visualizations/
 
-# Kursmaterial (urheberrechtlich geschützt, gehört nicht ins Repo)
+# Course material (copyrighted, does not belong in the repo)
 *.pdf
 
-# Build-Reste (LaTeX, Node, Python)
+# Build leftovers (LaTeX, Node, Python)
 *.aux
 *.log
 *.out
@@ -22,7 +22,7 @@ node_modules/
 __pycache__/
 .venv/
 
-# Pakete zum Verteilen
+# Distribution packages
 *.zip
 *.skill
 
